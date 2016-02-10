@@ -1,12 +1,11 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Tortoise and The Hare
+By: Raymond Hughes
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Tortoise And Hare Race
+PURPOSE OF PROJECT: to demonstrate the use of threads in Java
+VERSION: 1.0
+HOW TO START THIS PROJECT: Download the files and run the main method to start the race
+AUTHORS: Raymond Hughes
+USER INSTRUCTIONS: Feel free to fork or download and use the files for your own use or to redistribute.
